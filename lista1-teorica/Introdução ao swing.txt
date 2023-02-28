@@ -1,0 +1,11 @@
+1- Uma biblioteca é um termo utilizado para designar o código-fonte compilado que possibilita a utilização de determinadas funções no código-fonte do software.
+
+2- É uma biblioteca destinada a criação de interface gráfica.
+
+3- a) JButton.
+b)JTextField.
+c)JCheckBox.
+d)JProgressBar
+e)JOptionPane.
+f)JCombobox
+
