@@ -1,0 +1,23 @@
+1- Uma biblioteca é um termo utilizado para designar o código-fonte compilado que possibilita a utilização de determinadas funções no código-fonte do software.
+
+2- É uma biblioteca destinada a criação de interface gráfica.
+
+3- a) JButton.
+b)JTextField.
+c)JCheckBox.
+d)JProgressBar
+e)JOptionPane.
+f)JCombobox
+
+4- Layout é como os componentes que colocarmos nesse frame vão se distribuir visualmente nele.Um exemplo de Layout, é o Absolute
+
+5- COm o método showconfirmdialog. 
+--> int opcao = JOptionPane.showConfirmDialog(null, "mensagem");
+
+6- Biblioteca Swing: Possibilita o desenvolvimento de interfaces, maiores efeitos, telas mais aperfeiçoadas.
+Biblioteca AWT: Possui os primeiros componentes gráficos que surgiram no Java, possuem uma aparência mais padrão, são mais quadrados e não possuem muitos efeitos.
+JavaFX: Permite criar interfaces gráficas, animações, efeitos, gráficos e possibilita programar arrastando e soltando. É a nova biblioteca da plataforma Java.
+
+7- São objetos que ao serem configurados na aplicação, modificam o modo como o usuário irá interagir ou vizualisar a interface gráfica da mesma.FlatLaf, Pluggable, Nimbus.
+
+
